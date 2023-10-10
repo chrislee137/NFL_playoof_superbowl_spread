@@ -1,1 +1,1 @@
-# NFL_playoof_superbowl_spread
+This data represents data that helps provide the best odds when betting on the Superbowl. It allows you to see the Spread, Scores and Over Under data for the last 32 years, 1990-2022. It includes bar charts, histograms, heat maps, box plots, violine plots. This data also includes the min and max values of each of those subsets and the average of them. 
